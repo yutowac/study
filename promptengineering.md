@@ -114,3 +114,6 @@ and “b”, hence when concatenated, it forms “rb”.
 
 #出力文:
 ```
+
+# 最近の動向
+プロンプトエンジニアリングすらAIが実施した方が良いという[研究結果](https://gigazine.net/news/20240308-ai-take-over-prompt-engineering/)
