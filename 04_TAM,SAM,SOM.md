@@ -43,3 +43,5 @@ SOMを算出する際は、企業の営業活動・努力（例：自社の営�
 
 
 https://www.utokyo-ipc.co.jp/column/tam-market-size/
+
+
