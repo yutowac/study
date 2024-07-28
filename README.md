@@ -1,2 +1,2 @@
 # study
-studied things
+勉強会の内容をまとめています
