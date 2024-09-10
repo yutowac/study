@@ -110,4 +110,4 @@ https://www.seraku.co.jp/tectec-note/industry/swot_analysis/
 エビデンス→ベネフィット→ミッションの順番に整理する。
 
 
-
+[次へ](https://github.com/yutowac/study/blob/main/marketing2_planning.md)
