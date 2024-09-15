@@ -55,3 +55,6 @@
 顧客価値をどのように整理するか
 
 ### 価格の決め方
+
+----
+[次へ](https://github.com/yutowac/study/blob/main/Customer.md)
