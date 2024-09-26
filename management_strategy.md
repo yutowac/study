@@ -31,3 +31,9 @@ No
 |重視するもの |市場の選択 |経営資源の獲得 |
 
 とにかく市場の選択が最重要
+- 市場(何を誰に売るか)で全く利益率が違う
+例：医薬品業界のコスト構造
+![スクリーンショット 2024-09-26 160019](https://github.com/user-attachments/assets/856f733e-ac73-4bc4-9ba5-818bdf41ba5d)
+
+![image](https://github.com/user-attachments/assets/91fa1043-359a-4cd8-8949-de43b85a8177)
+
