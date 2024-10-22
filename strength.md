@@ -73,7 +73,7 @@
 直営店
 </details>
 
-演習：サウスウェスト航空(LCC航空)のビジネスモデルのポイント
+演習：サウスウェスト航空(LCC航空)のビジネスモデルのポイント  
 ![image](https://github.com/user-attachments/assets/c8d82924-9dd0-491f-9efb-5192b083707f)
 
 <details>
