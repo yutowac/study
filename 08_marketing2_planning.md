@@ -47,5 +47,7 @@
 # 戦略の決め方
 ## [強みを探す](https://github.com/yutowac/study/edit/main/strength.md)
 
+[ドラッガー「Build on Strength, Not Weakness」](Build on Strength, Not Weakness)
+
 ----
 [次へ](https://github.com/yutowac/study/blob/main/Customer.md)
