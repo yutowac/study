@@ -24,7 +24,7 @@
 ![image](https://github.com/user-attachments/assets/ad23e35e-ceb5-4e0e-b936-e139d506a066)
 
 # Lean BtoB Canvas
-BtoBだと情報が手に入りにくくLean Canvasを埋めるのは困難。Lean BtoB Canvasはより簡易に埋められるようになっている。
+BtoBだと情報が手に入りにくくLean Canvasを埋めるのは困難。Lean BtoB Canvasはより簡易に埋められるようになっている。  
 ![image](https://github.com/user-attachments/assets/b8220617-ed09-4ad8-ad05-f03a424274c6)
 
 # BtoBの顧客はどこにいる？
