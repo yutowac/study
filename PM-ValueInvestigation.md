@@ -41,5 +41,7 @@ BtoBだと情報が手に入りにくくLean Canvasを埋めるのは困難。Le
 - 顧客企業内で割と新しいもののご意見番
 - 未完成なプロダクトでも使うことに抵抗ない
 
-
+# 自分の業界内の理解やプレゼンスを磨くことも忘れずに
+Why should they trust you?  
+Who can tell me that I can trust you.
 
