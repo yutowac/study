@@ -45,3 +45,15 @@ BtoBだと情報が手に入りにくくLean Canvasを埋めるのは困難。Le
 Why should they trust you?  
 Who can tell me that I can trust you.
 
+## 提供価値
+以下をROIで表現する
+- 収益が上がる
+- コストが減る
+- (顧客・従業員の)満足度が上がる
+
+### Hard Benefit
+- ROIで測れるもの: Hard Benefit
+  - 時間や経費の削減
+- ROIで測れないもの: Soft Benefit
+  - 従業員の満足などファジーなもの
+Hard Benefitな要素がないと理解してもらいずらい
