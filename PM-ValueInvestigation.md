@@ -57,3 +57,8 @@ Who can tell me that I can trust you.
 - ROIで測れないもの: Soft Benefit
   - 従業員の満足などファジーなもの
 Hard Benefitな要素がないと理解してもらいずらい
+
+# 発見アプローチ
+Double Diamond Design Process
+![image](https://github.com/user-attachments/assets/39d8eed6-aac7-4a7a-920d-05abac34f4c8)
+
