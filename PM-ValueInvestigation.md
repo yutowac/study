@@ -74,3 +74,6 @@ Double Diamond Design Process
 - Pain: 常に起こっている⇔大して気にならない
 - Gain: なくてはならない⇔あればうれしい
 - Jobs to be done: 重要・優先度高い⇔ベストエフォート
+
+## 係数化
+task time impact matrix
