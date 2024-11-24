@@ -88,3 +88,7 @@ task time impact matrix
   そもそも顧客がいない。他社が手を出さないほど魅力がない
   Big fish in the small pond. 適切なマーケットセグメント分け
 - 
+
+# ポジショニング
+BtoBプロダクトの場合、すでにビッグプレイヤーが存在するため、直接競合となると勝てる見込みが薄くなる
+市場の再定義、re-segmentationが重要
