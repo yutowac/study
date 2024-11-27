@@ -12,3 +12,14 @@
 ## Risk Matrix
 Riskest Assumption
 ![image](https://github.com/user-attachments/assets/44ad8887-e097-41bb-9d07-2b3847efd8b5)
+
+## どのようなデータを集めるか
+- time to activation
+- 使用頻度
+- 使用時間
+- タスク完了率
+- 使用感
+- サポートリクエスト数
+- 機能改善リクエスト数
+- 可用性
+- 使われた機能、使われなかった機能
