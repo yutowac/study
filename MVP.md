@@ -23,3 +23,6 @@ Riskest Assumption
 - 機能改善リクエスト数
 - 可用性
 - 使われた機能、使われなかった機能
+
+# ピボットの考え方
+BtoBの場合はHow→What→Why→Coreと下からやっていく
