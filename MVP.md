@@ -26,3 +26,8 @@ Riskest Assumption
 
 # ピボットの考え方
 BtoBの場合はHow→What→Why→Coreと下からやっていく
+- Value capture pivot
+  固定価格→サブスクリプション
+- Channel pivot
+  価値の提供形態を変える:プッシュからプル、人から人→SaaS化
+- Technology pivot
