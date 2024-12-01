@@ -31,3 +31,4 @@ BtoBの場合はHow→What→Why→Coreと下からやっていく
 - Channel pivot
   価値の提供形態を変える:プッシュからプル、人から人→SaaS化
 - Technology pivot
+  テクノロジースタックを変える、デスクトップアプリ→モバイルアプリ
