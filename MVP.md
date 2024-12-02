@@ -32,3 +32,9 @@ BtoBの場合はHow→What→Why→Coreと下からやっていく
   価値の提供形態を変える:プッシュからプル、人から人→SaaS化
 - Technology pivot
   テクノロジースタックを変える、デスクトップアプリ→モバイルアプリ
+
+## Problem Pivot
+いつ考えるか？→プロダクトの価値とROIが顧客の気を引けていない
+- Product Value Pivot
+- Zoom-out Pivot
+- Zoom-in Pivot
