@@ -36,5 +36,9 @@ BtoBの場合はHow→What→Why→Coreと下からやっていく
 ## Problem Pivot
 いつ考えるか？→プロダクトの価値とROIが顧客の気を引けていない
 - Product Value Pivot
+  - 価値提案を変える
+  - ポジショニングを変える
 - Zoom-out Pivot
+  - 構想した機能全体をさらに大きなプロダクトやプラットフォームの一部にする
 - Zoom-in Pivot
+  - 構想した機能のうち1つを徹底的に突き詰める
