@@ -25,7 +25,7 @@ Riskest Assumption
 - 使われた機能、使われなかった機能
 
 # ピボットの考え方
-BtoBの場合はHow→What→Why→Coreと下からやっていく
+BtoBの場合は How→What→Why→Core と下からやっていく
 - Value capture pivot
   固定価格→サブスクリプション
 - Channel pivot
