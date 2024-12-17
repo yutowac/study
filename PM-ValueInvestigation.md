@@ -1,4 +1,5 @@
-# 提供価値の探索の初動
+# 提供価値の探索
+## 初動
 - ポテンシャルのあるエリアを選ぶ
 - 「企業」や「こんな問題があるのでは？」ではなく「人」に着目する
 - 調べつくす
@@ -42,11 +43,10 @@ BtoBだと情報が手に入りにくくLean Canvasを埋めるのは困難。Le
 - 未完成なプロダクトでも使うことに抵抗ない
 
 ## 自分の業界内の理解やプレゼンスを磨くことも忘れずに行う
-Why should they trust you?  
-Who can tell me that I can trust you?
+Why should they trust you? なぜ顧客はあなたを信頼するか？   
 
 ## 提供価値
-以下をROIで表現する
+以下をROI(Return On Investment)で表現する
 - 収益が上がる
 - コストが減る
 - (顧客・従業員の)満足度が上がる
@@ -59,7 +59,7 @@ Who can tell me that I can trust you?
 Hard Benefitな要素がないと理解してもらいづらい
 
 # 発見アプローチ
-Double Diamond Design Process
+[Double Diamond Design Process](https://www.uxpin.com/studio/jp/blog-jp/double-diamond-design-process-ja/)
 ![image](https://github.com/user-attachments/assets/39d8eed6-aac7-4a7a-920d-05abac34f4c8)
 
 # 優先度と切り口
@@ -75,7 +75,7 @@ Double Diamond Design Process
 - Gain: なくてはならない⇔あればうれしい
 - Jobs to be done: 重要・優先度高い⇔ベストエフォート
 
-## 係数化
+## 係数化(省略します)
 task time impact matrix
 
 ## 新しい市場をつくることの注意点
@@ -90,7 +90,7 @@ task time impact matrix
 
 # ポジショニング
 BtoBプロダクトの場合、すでにビッグプレイヤーが存在するため、直接競合となると勝てる見込みが薄くなる
-市場の再定義、re-segmentationが重要
+市場の再定義、Re-Segmentationが重要
 
 ## 良い価値提案
 ### 良い価値提案をつくるためのフォーマット  
@@ -102,9 +102,12 @@ BtoBプロダクトの場合、すでにビッグプレイヤーが存在する�
   - 説得力がある
   - 証明できる
   - 平易な言葉で説明できる
+ 
+![image](https://github.com/user-attachments/assets/c11da235-fbac-4158-897b-0481c6e55e51)
+
 
 ## ポジショニングに迷ったら...
-次の順番で考える  
+次の順番で考える。  
 1. 競合・代替:そのプロダクトが存在しなかったらユーザーは何をどのように使うか
 2. 独自性:そのプロダクトにあって、他の企業にないものは
 3. 価値:その独自性は何を可能にするか
