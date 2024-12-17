@@ -62,6 +62,11 @@ Hard Benefitな要素がないと理解してもらいづらい
 [Double Diamond Design Process](https://www.uxpin.com/studio/jp/blog-jp/double-diamond-design-process-ja/)
 ![image](https://github.com/user-attachments/assets/39d8eed6-aac7-4a7a-920d-05abac34f4c8)
 
+発散し収束していく様子を示している。
+例  
+- [飲食店の例](https://www.unprinted.design/articles/double-diamond/)
+- 参考：[senz° umbrellas](https://www.unprinted.design/articles/senz-umbrellas/)
+
 # 優先度と切り口
 - 頻度: 多くのアーリーアダプターたちの間でどれくらい頻繁に問題が起きているのか
 - ペインやゲインの度合い: ユーザーは積極的に打開策を探しているのか
