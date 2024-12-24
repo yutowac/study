@@ -6,6 +6,8 @@ Minimum Viable Product の略。 顧客の反応を検証しながら改善し�
 1. 問題を解決可能である  
 2. 価値を理解できる  
 3. 「違い」が明らかである  
+![image](https://github.com/user-attachments/assets/3d90deb9-1e4d-47cd-9ef1-8b1d0b2931d0)
+
   
 ## 事前に決めておくべきこと  
 1. Experiment: どの仮説を確かめるか  
@@ -37,10 +39,11 @@ Minimum Viable Product の略。 顧客の反応を検証しながら改善し�
 
 # ピボットの考え方
 ## ピボットとは
-Pivotは「回転軸」の意味。ベンチャー企業での「方向転換」「路線変更」といった意味で盛んに使われるようになった。
-
+Pivotは「回転軸」の意味。ベンチャー企業での「方向転換」「路線変更」といった意味で盛んに使われるようになった。  
+![image](https://github.com/user-attachments/assets/eb4ef111-367b-4bbb-9a33-5a104e0c38e4)  
+  
 BtoBの場合は How→What→Why→Core と下からやっていく。いきなりミッションの見直しをしない。  
-![image](https://github.com/user-attachments/assets/4843a4fd-f6a9-48e0-9f01-d114ce938650)
+![image](https://github.com/user-attachments/assets/4843a4fd-f6a9-48e0-9f01-d114ce938650)  
   
 ## 1.Solution Pivot
   - Value capture pivot
