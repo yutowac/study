@@ -10,7 +10,7 @@ Minimum Viable Product の略。 顧客の反応を検証しながら改善し�
 ## 事前に決めておくべきこと  
 1. Experiment: どの仮説を確かめるか  
 2. Data: どんなデータを集めるか  
-3. Success Criteria: 何を持って成功と言えるか
+3. Success Criteria: 何を持って成功と言えるか  
 ↑多くの開発プロセスに当てはまる
   
   
@@ -40,6 +40,8 @@ Minimum Viable Product の略。 顧客の反応を検証しながら改善し�
 Pivotは「回転軸」の意味。ベンチャー企業での「方向転換」「路線変更」といった意味で盛んに使われるようになった。
 
 BtoBの場合は How→What→Why→Core と下からやっていく。いきなりミッションの見直しをしない。  
+![image](https://github.com/user-attachments/assets/4843a4fd-f6a9-48e0-9f01-d114ce938650)
+  
 ## 1.Solution Pivot
   - Value capture pivot
     固定価格→サブスクリプション
