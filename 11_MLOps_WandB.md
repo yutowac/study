@@ -1,4 +1,5 @@
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/50bb2511-fb7d-40de-a416-d9f8ff79991a.png)
+<img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/6b9f76b2-c47b-43cb-9361-9f3444c5ae87" />
+
 
 ## 機械学習モデルの育て方
 
@@ -8,7 +9,8 @@ https://wandb.ai/site/ja/
 
 このような形でパラメータを管理しモデルを比較することができます。
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/614e852d-2e44-41d5-ad45-b4bb0316a5fb.png)
+<img width="2048" height="1049" alt="image" src="https://github.com/user-attachments/assets/a0592489-b570-46bc-b63c-9e6a2320b3af" />
+
 
 
 ### パラメータの調整とは
@@ -16,7 +18,8 @@ https://wandb.ai/site/ja/
 
 ですが、誤差関数が複雑な場合、極小点は1つでなく、意図しない極小値で学習を終了する可能性があるため、適切な極小値を学習するためのパラメータを調整する必要があります。
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/4a87407b-619f-4a77-97c2-f29b51db36f8.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bdb9379e-d231-4bae-8c82-a0de3e5ea541" />
+
 
 
 ## 準備するもの
@@ -40,7 +43,9 @@ https://wandb.ai/signup
 まずは、WandB の API キーを使うので、取得していきましょう。
 WandB のマイページのユーザーアイコンから `User settings` を選択し、下の方へスクロールすると `API keys` の項目があるので、`Reveal` ボタンを押し表示させましょう。このキーをコピーしておきます。
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/7a869d57-b970-4e18-bf0d-69a229326be2.png)
+<img width="1243" height="634" alt="image" src="https://github.com/user-attachments/assets/f61995d8-305d-41c2-9132-84f49273eb25" />
+
+
 
 ## 2. Kaggle Notebook で WandB を接続してみる
 
@@ -51,12 +56,13 @@ https://www.kaggle.com/code/yutodennou/practice-wandb-lightgbm
 
 サイドバーの`Session options` の`Internet on` のトグルをオンにしておきます。
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/c7ebc5a1-7b8e-4610-b168-01011219b6de.png)
+<img width="753" height="419" alt="image" src="https://github.com/user-attachments/assets/87c105e1-5793-4e68-9ae7-cdac9e566a24" />
 
 
 `Add-ons`から`Secrets`を選択し、WandB の API キーを環境変数に入れます。
 
-![スクリーンショット 2025-11-08 202357.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/eeb5b8b6-0479-4079-8100-07801dfc460d.png)
+<img width="1149" height="489" alt="image" src="https://github.com/user-attachments/assets/3828c741-b9dc-4686-bc93-092bf670cff5" />
+
 
 
 キーとバリューは以下のようにします。
@@ -169,11 +175,13 @@ wandb.init(
 
 このような出力があれば OK です。ちなみに `Display W&B run`を押すと Notebook 上で WandB のプロジェクトページのダッシュボードを見ることができます。
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/bc1e7568-cf97-4652-a366-539c6abb33f5.png)
+<img width="867" height="300" alt="image" src="https://github.com/user-attachments/assets/51c4b043-bfd4-46ec-a782-9f5cfce85c79" />
+
 
 ちなみにWandBを開いてみると、新たに "**store_sales_time_series_forecasting**" というプロジェクトができています。
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/14384788-c196-459a-961b-f4f53c901414.png)
+<img width="1602" height="428" alt="image" src="https://github.com/user-attachments/assets/e083cc9c-641f-49cc-a016-6e6f90442bce" />
+
 
 
 ## 3.解析結果を管理してみよう
@@ -273,7 +281,8 @@ plt.grid(True)
 plt.tight_layout()
 ```
 
-![download.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/a3e4edd4-d46b-4421-8457-1717d87441ed.png)
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/64986e89-52ba-49bd-ab8f-217460fdf659" />
+
 
 もちろんこのような出力も WandB に記録されます。
 
@@ -287,15 +296,18 @@ log_summary(model, save_model_checkpoint=True)
 
 ワークスペース上に `exp001` という実行結果ができています。
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/597d9c35-7059-4f8d-b93d-4a84d66769ea.png)
+<img width="1376" height="527" alt="image" src="https://github.com/user-attachments/assets/f3f98490-888e-4be0-87c4-94fcae927c23" />
+
 
 `exp001`を開くと、`Charts` タブで先ほどの学習過程のグラフを見ることができます。
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/b347a3e6-cfd4-4ef9-a4e5-c7767b6afe1e.png)
+<img width="2061" height="923" alt="image" src="https://github.com/user-attachments/assets/dad90060-ebcd-4595-a0f0-5af9b9871527" />
+
 
 また`Overview` タブでパラメータやサマリーも確認できます。
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/2b5e345d-81f3-4eba-9dfb-14e3cb8867e6.png)
+<img width="1805" height="794" alt="image" src="https://github.com/user-attachments/assets/564e9b90-4410-4c51-99da-607b15ef9bc7" />
+
 
 
 最後に`finish()`関数で終了しましょう。
@@ -305,7 +317,9 @@ wandb.finish()
 ```
 
 実行サマリーが出力されます。
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/986141/ce0f035c-2067-4cd9-aa63-38d118a2e859.png)
+
+<img width="1336" height="577" alt="image" src="https://github.com/user-attachments/assets/67abb572-5072-40f1-b495-083ab5ec1a40" />
+
 
 ## 補足
 
@@ -316,7 +330,7 @@ wandb.finish()
 
 ### 基本：１実験１ Notebook
 
-```
+```bash
 experiments/
 ├─exp001.ipynb
 ├─exp002.ipynb
@@ -326,7 +340,7 @@ experiments/
 
 ### 関数など機能を切り離す：１実験１ディレクトリ
 
-```
+```bash
 experiments/
 ├─exp001
 │  ├─config.yaml
@@ -344,7 +358,7 @@ experiments/
 
 出力結果を管理する場合。expで揃える。
 
-```
+```bash
 project/
 ├─experiments/
 │ ├─exp001
