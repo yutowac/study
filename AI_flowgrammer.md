@@ -101,32 +101,9 @@ https://github.com/n8n-io/self-hosted-ai-starter-kit
 
 <a href="https://gyazo.com/4c1f37c03de873798f42c87cd5253967"><img src="https://i.gyazo.com/4c1f37c03de873798f42c87cd5253967.png" alt="Image from Gyazo" width="900px"/></a>
 
-> [!IMPORTANT]
-> 今回の講義では時間の都合上、以下の点を変更して実装します。完全版をつくるためのフローも資料では紹介しているので是非チャレンジしてみてください。  
-> 変更点
-> - 動画生成 (Sora) → 画像生成 (DALL・E)
-> - YouTube へのアップロード → Dropbox へのアップロード
-
-## 目的
-あなたが Gmail や Slack などのツール同士を連携させたいとき、どのようなイメージが沸くでしょうか？  
-世界中で人気の高い自動化ツール n8n に触れ、ツールを連携させるための勘所を学びましょう。
   
 ---
   
-# 準備状況の確認
-
-以下にアクセスしてアカウント名を入力してサインインしてください。
-
-https://app.n8n.cloud/login
-
-何かしらワークフローをスタートできそうな画面になっていれば OK です。例えば、このような画面から始まる人は `Start from scratch` から始めましょう。  
-<a href="https://gyazo.com/75833048bbec2e28872856fd1b0c61a8"><img src="https://i.gyazo.com/75833048bbec2e28872856fd1b0c61a8.png" alt="Image from Gyazo" width="450px"/></a>  
-  
-> [!WARNING]
-> アカウントがない場合やアカウント名が誤っている場合は以下のように表示されます。このようになってしまう方は教えて下さい。  
-
-<a href="https://gyazo.com/f32050fca9df56ee2f451d49e76ce26a"><img src="https://i.gyazo.com/f32050fca9df56ee2f451d49e76ce26a.png" alt="Image from Gyazo" width="450px"/></a>  
-
 # n8n とは？
 n8n はオープンソースのワークフロー自動化ツールです。プログラミング不要で、視覚的に Google Sheets や Slack、メール、データベース、生成 AI など普段使っているツール同士をつなげて面倒な作業を自動化できるソフトウェアです。  
 パズルのようにツールをつなげられるサービスと考えてください。  
